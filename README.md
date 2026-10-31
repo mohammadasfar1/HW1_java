@@ -1,14 +1,15 @@
 # HW1_java
-a java system to practice on oop principles
+
+A Java system to practice OOP principles.
+
 ---
-## to run the app
-1.download the files
 
-2.open an ide like: vs code
+## How to run the app
 
-3.open a new folder
+1. Download the project files.
+2. Open the project in an IDE like VS Code.
+3. Open the project folder.
+4. Press Ctrl + F5 to run the app.
+5. Enter your inputs in the terminal.
 
-4. ctrl+f5 to run
-
-6. enter your inputs in the terminal
 ---
